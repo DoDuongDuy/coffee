@@ -48,7 +48,6 @@ function eventListener() {
         ui.showFeedback('Some form values empty','error');
       }
     });
-  console.log(links);
 }
 
 // constructer function
